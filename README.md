@@ -1,9 +1,10 @@
+
 <!-- Profilbanner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KateSofiaPetersen/KateSofiaPetersen/main/banner.svg" alt="Kate Sofia Petersen – IT Support & AI Solutions" width="100%">
+  <img width="3960" height="990" alt="Ivory White Modern Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/be719fbb-9e1b-4639-b493-aabfd7bfa993" />
 </p>
 
-# Teknisk expertis och kommunikativ skärpa ✅🏆📊🎯🗳️
+# Teknisk expertis och kommunikativ skärpa
 
 💻 **IT-supporttekniker med AI-inriktning**  
 🌐 **Microsoft 365 | Azure | Cisco Networking | Cybersäkerhet**  
@@ -14,6 +15,7 @@
 ## Karriärutveckling
 Jag befinner mig i en aktiv fas av karriärutveckling med fokus på IT-support, nätverk, cybersäkerhet och AI-baserade lösningar.  
 Med en pågående utbildning till **IT-supporttekniker med AI-inriktning** kombinerar jag teknisk kompetens med erfarenhet som digital kommunikatör och projektledare, villket ger mig en unik förmåga att kombinera teknisk förståelse med affärsmässig kommunikation – något jag använder för att bygga lösningar som är både användarvänliga och strategiskt värdeskapande. 
+
 Jag brinner för att skapa lösningar som är både tekniskt robusta och användarvänliga.
 
 ---
@@ -38,6 +40,7 @@ Jag brinner för att skapa lösningar som är både tekniskt robusta och använd
 - Praktisk erfarenhet av Windows Server (2019/2022/2025), Active Directory, PowerShell och Linux (Debian)  
 - Kompetens inom Cisco LAN/WAN, routing, switching, VLAN och TCP/IP  
 - Grundläggande AI-verktyg och Copilot AI i supportarbete  
+
 **Planerade certifieringar vid examen:**  
 - MS-900: Microsoft 365 Fundamentals  
 - AZ-900: Microsoft Azure Fundamentals  
