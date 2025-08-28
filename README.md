@@ -87,3 +87,7 @@ Jag brinner för att skapa lösningar som är både tekniskt robusta och använd
 
 ---
 ⭐ *Jag är alltid öppen för att nätverka och diskutera nya möjligheter inom IT, AI och digitala lösningar.*
+
+<img width="1575" height="525" alt="Kate sofia petersen (3)" src="https://github.com/user-attachments/assets/5319ca8f-4d67-4a5f-a33c-c6aed06ebcac" />
+
+
