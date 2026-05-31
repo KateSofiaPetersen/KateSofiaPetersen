@@ -13,12 +13,12 @@
 **Systemarkitektur · AI‑produktdesign · Datamodellering · Automation · LMS & HR‑Tech**
 
 📍 Malmö · Distansvänlig  
-🧠 Grundare av NetSkills Academy  
-🔍 Bygger etiska algoritmer, AI‑drivna matchningssystem och skalbara utbildningsplattformar
+Grundare av NetSkills Academy  
+Bygger etiska algoritmer, AI‑drivna matchningssystem och skalbara utbildningsplattformar
 
 ---
 
-## 🌟 Om mig
+## Om mig
 Jag är en systemarkitekt och produktdesigner som bygger AI‑drivna matchningssystem, etiska algoritmer och skalbara utbildningsplattformar.  
 Min styrka är att ta ett system från **idé → arkitektur → algoritm → dokumentation → implementation**.
 
@@ -32,11 +32,11 @@ Jag arbetar i skärningspunkten mellan:
 
 ---
 
-# 🧩 Projekt
+# Projekt
 
 ---
 
-## 🚀 NetSkills Academy (NSA)  
+## NetSkills Academy (NSA)  
 **Founder & Technical Architect**  
 *Mars 2026 – nu*
 
@@ -52,15 +52,15 @@ Jag har designat hela plattformen från grunden:
 - **Regelbaserad automation** och spårbarhet  
 - **UI/UX och informationsarkitektur** i Wix Studio
 
-💡 **Syfte:**  
+**Syfte:**  
 Att skapa en rättvis väg in i arbetslivet där kompetens, potential och neurodiversitet får lika värde.
 
-🔗 Portfolio:  
+Portfolio:  
 https://katesofiapetersen.wixstudio.com/portfolio/projects-1/netskills-academy
 
 ---
 
-## 📊 SkillCtl – Control your growth. Automate your learning.  
+## SkillCtl – Control your growth. Automate your learning.  
 **Systemdesigner · Backendutvecklare · Serveradministratör**
 
 SkillCtl är ett egeninitierat systemprojekt som jag byggde under min Linuxkurs — från att aldrig ha använt Linux till att driftsätta en komplett lärplattform på **25 dagar**.
@@ -77,17 +77,17 @@ Jag designade, byggde och driftade hela systemet själv:
 - Dashboard‑UI för aktivitet, progression och analys  
 - Drift på egen **Strato VPS (Ubuntu 24.04)** med full säkerhetskonfiguration  
 
-🧠 **Syfte:**  
+**Syfte:**  
 Att kombinera applikationslogik, serverdrift och automatisering i en verklig produktionsmiljö.  
 Projektet visar min förmåga att lära snabbt, felsöka metodiskt och bygga fungerande lösningar under press.
 
-📁 **Status:**  
+**Status:**  
 ✅ Systemet körs i driftmiljö  
 ⚙️ Vidareutvecklas med logganalys, fler vyer och automatiska notifieringar
 
 ---
 
-## 💻 Microsoft 365 Loan System – Automated Device Management  
+## Microsoft 365 Loan System – Automated Device Management  
 **Systemarkitekt · Automationsdesigner · Microsoft 365‑specialist**
 
 Ett komplett systemprojekt utvecklat för en IT‑utbildningsverksamhet, byggt i **Microsoft 365‑miljö** med **SharePoint** och **Power Automate**.
@@ -110,7 +110,7 @@ Jag designade och implementerade ett **digitalt lånesystem** för IT‑utrustni
 
 ---
 
-# 🛠️ Teknikstack
+# Teknikstack
 
 ### **System & DevOps**
 Linux (Ubuntu) · SSH · Nginx · Gunicorn · systemd · Serverhärdning
@@ -132,7 +132,7 @@ Git · GitHub · VS Code · CLI · Dokumentation
 
 ---
 
-# 🎓 Certifikat
+# Certifikat
 
 ### **Credly**
 - Introduction to Modern AI – Cisco  
@@ -161,7 +161,7 @@ Git · GitHub · VS Code · CLI · Dokumentation
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KateSofiaPetersen&show_icons=true&theme=default" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KateSofiaPetersen&theme=default" />
@@ -169,7 +169,7 @@ Git · GitHub · VS Code · CLI · Dokumentation
 
 ---
 
-# 🤝 Kontakt
+# Kontakt
 [LinkedIn – Kate Petersen](https://www.linkedin.com/in/kate-petersen-malmo)  
 📧 kontakt@katepetersen.se  
 🌐 www.katepetersen.se  
