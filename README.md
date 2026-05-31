@@ -56,7 +56,7 @@ Jag har designat hela plattformen från grunden:
 Att skapa en rättvis väg in i arbetslivet där kompetens, potential och neurodiversitet får lika värde.
 
 Portfolio:  
-https://katesofiapetersen.wixstudio.com/portfolio/projects-1/netskills-academy
+https://katepetersen.se
 
 ---
 
